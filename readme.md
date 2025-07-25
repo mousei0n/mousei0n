@@ -6,10 +6,20 @@
 - ❤ I love listening to music and reading books
 
 ## 💪 I can use
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,py,go,dart,flutter&theme=light)](https://skillicons.dev)
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,py,go,dart,flutter&theme=light" alt="Skill Icon">
+</p>
 
 ## 🧐 I'm leaning now
-[![My Skills](https://skillicons.dev/icons?i=rust,cpp,typescript,mysql,sqlite,docker,firebase,gcp,aws&theme=light)](https://skillicons.dev)
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=rust,cpp,typescript,mysql,sqlite,docker,firebase,gcp,aws&theme=light" alt="Skill Icon">
+</p>
+
+## 🔗 Links & Contact
+  - Twitter (Current X) : [@mousei0n](https://x.com/mousei0n)
+  - AtCoder : [@Mousei0n](https://atcoder.jp/users/Mousei0n)
+  - Qiita : [@mousei0n](https://qiita.com/mousei0n)
+  - Zenn : [@mousei0n](https://zenn.dev/mousei0n)
 
 ## 🔥 Stats
 <p align="left"> 
