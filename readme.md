@@ -2,8 +2,8 @@
 [![Rating](https://badgen.org/img/atcoder/mousei0n/rating/algorithm?style=flat)](https://atcoder.jp/users/mousei0n?contestType=algo)
 
 ## 😶 About Me
-- 🕶 I'm **Cashew**, a Japanese Student
-- ❤ I love listening to music and reading books
+- 🕶 **Cashew**といいます カシューナッツのかしゅーです
+- ❤ 音楽を聴いたり 本を読んだりすることが好きです
 
 ## 💪 I can use
 <p align="left"> 
@@ -16,10 +16,11 @@
 </p>
 
 ## 🔗 Links & Contact
-  - Twitter (Current X) : [@mousei0n](https://x.com/mousei0n)
+  - Twitter (Current X) : [@mousei0n](https://x.com/mousei0n) - つぶやき ご連絡はこちらへ
   - AtCoder : [@Mousei0n](https://atcoder.jp/users/Mousei0n)
   - Qiita : [@mousei0n](https://qiita.com/mousei0n)
   - Zenn : [@mousei0n](https://zenn.dev/mousei0n)
+  - しずかなインターネット : [@mousei0n](https://sizu.me/mousei0n)
 
 ## 🔥 Stats
 <p align="left"> 
