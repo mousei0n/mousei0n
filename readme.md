@@ -24,9 +24,8 @@
 
 ## 🔥 Stats
 <p align="left"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mousei0n&theme=vue" alt="Github Card" width="70%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mousei0n&theme=transparent" alt="Github Card">
 </p>
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mousei0n&theme=vue" alt="Github Card" width="35%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mousei0n&theme=vue&utcOffset=9" alt="Github Card" width="35%">
+  <img src="https://github-stats-eta-two.vercel.app/api/stats/mousei0n" alt="Developer Score">
 </p>
