@@ -23,9 +23,8 @@
   - しずかなインターネット : [@mousei0n](https://sizu.me/mousei0n)
 
 ## 🔥 Stats
-<p align="left"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mousei0n&theme=transparent" alt="Github Card" width="75%">  
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com?user=mousei0n&theme=discord-old-blurple&border_radius=5&locale=ja" alt="GitHub Streak" width="85%"/>
 </p>
 <p align="left">
-  <img src="https://github-stats-eta-two.vercel.app/api/stats/mousei0n" alt="Developer Score" width="75%">
+  <img src="https://github-stats-eta-two.vercel.app/api/stats/mousei0n" alt="Developer Score" width="85%">
 </p>
