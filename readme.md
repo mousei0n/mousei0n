@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=js,py,go,dart,flutter&theme=light" alt="Skill Icon">
 </p>
 
-## 🧐 I'm interesting now
+## 🧐 I'm interested in
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=ts,kotlin,rust,mysql,gcp,aws&theme=light" alt="Skill Icon">
 </p>
