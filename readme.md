@@ -7,12 +7,12 @@
 
 ## 💪 I can use
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=py,go,dart,flutter&theme=light" alt="Skill Icon">
+  <img src="https://skillicons.dev/icons?i=js,py,go,dart,flutter&theme=light" alt="Skill Icon">
 </p>
 
 ## 🧐 I'm interesting now
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=rust,kotlin,typescript,mysql,sqlite,docker,firebase,gcp&theme=light" alt="Skill Icon">
+  <img src="https://skillicons.dev/icons?i=ts,kotlin,rust,mysql,gcp,aws&theme=light" alt="Skill Icon">
 </p>
 
 ## 🔗 Links & Contact
