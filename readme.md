@@ -21,8 +21,3 @@
   - Qiita : [@mousei0n](https://qiita.com/mousei0n)
   - Zenn : [@mousei0n](https://zenn.dev/mousei0n)
   - しずかなインターネット : [@mousei0n](https://sizu.me/mousei0n)
-
-## 🔥 Stats
-<p align="left">
-  <img src="https://github-stats-eta-two.vercel.app/api/stats/mousei0n" alt="Developer Score" width="85%">
-</p>
