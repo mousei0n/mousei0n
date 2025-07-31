@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?username=mousei0n) 
-[![Rating](https://badgen.org/img/atcoder/mousei0n/rating/algorithm?style=flat)](https://atcoder.jp/users/mousei0n?contestType=algo)
+![](https://komarev.com/ghpvc/?username=mousei0n)  [![Rating](https://badgen.org/img/atcoder/mousei0n/rating/algorithm?style=flat)](https://atcoder.jp/users/mousei0n?contestType=algo)
 
 ## 😶 About Me
 - 🕶 **Cashew**といいます カシューナッツのかしゅーです
