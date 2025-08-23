@@ -20,4 +20,3 @@
   - AtCoder : [@Mousei0n](https://atcoder.jp/users/Mousei0n)
   - Qiita : [@mousei0n](https://qiita.com/mousei0n)
   - Zenn : [@mousei0n](https://zenn.dev/mousei0n)
-  - しずかなインターネット : [@mousei0n](https://sizu.me/mousei0n)
