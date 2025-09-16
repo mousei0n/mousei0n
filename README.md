@@ -12,7 +12,7 @@
 - Rust, TypeScript/React/Next.JS, C++, Dart/Flutter, SQLite
 - Docker, GCP, AWS
 - Unity, Blender, 3Dモデリング
-- 機械学習, 人工知能, 低レイヤーtps://skillicons.dev/icons?i=git,idea,vscode,androidstudio&theme=light)](https://skillicons.dev)
+- 機械学習, 人工知能, 低レイヤー
 
 ### Connect with Me 😶
 - 📌 [Twitter](https://x.com/mousei0n) (@mousei0n)
