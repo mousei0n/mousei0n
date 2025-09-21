@@ -2,7 +2,7 @@
 $ whoami
     🫠   NAME   : cashew
     👤  STATUS  : Student, Japanese
-    💕   LOVE   : Something sweet, Airplane
+    💕   LOVE   : Sweets, Airplane
     
 $ usage
     NAME     USAGE    DESCRIPTION
